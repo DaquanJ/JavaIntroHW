@@ -7,3 +7,5 @@ public class Unitconversion {
         System.out.println(100 + " inches is equal to " + inchConverter(100) + " meters ");
     }
 }
+
+// how to add two methods to a java class - https://stackoverflow.com/questions/34364156/how-do-i-add-two-methods-in-java

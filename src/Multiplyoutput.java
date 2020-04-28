@@ -4,6 +4,8 @@ public class Multiplyoutput {
     }
 
     public static void main (String[] args) {
-       System.out.println(twoNumbers(25,5));
+        System.out.println(twoNumbers(25,5));
     }
 }
+
+// how to add two methods to a java class - https://stackoverflow.com/questions/34364156/how-do-i-add-two-methods-in-java
